@@ -1,8 +1,12 @@
 Configuration of Contao CMS to easily use it with Bootstrap template
 
+Please contact me if you have some templates to add
+
+Compatible versions
+- Contao 2.11
+
 Contao:
 http://www.contao.org/en/
 
 Bootstrap:
 http://twitter.github.com/bootstrap/
-
