@@ -1,5 +1,7 @@
 Configuration of Contao CMS to easily use it with Bootstrap template
 
+You have tu manually add css stylesheet in the template header because Contao aggregates stylesheets automatically and it doesn't work with Bootstrap
+
 Please contact me if you have some templates to add
 
 Compatible versions
